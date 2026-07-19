@@ -1,4 +1,4 @@
-# 🔥 Arduino Fire Fighting Robot
+#  Arduino Fire Fighting Robot
 
 ## Overview
 
